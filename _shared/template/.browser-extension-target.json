@@ -1,0 +1,7 @@
+{
+  "generatedBy": "Browser-Extension-Starter-App-Builder",
+  "framework": "{{FRAMEWORK}}",
+  "frameworkName": "{{FRAMEWORK_NAME}}",
+  "profile": "{{PROFILE}}",
+  "packageManager": "{{PACKAGE_MANAGER}}"
+}

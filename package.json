@@ -1,0 +1,13 @@
+{
+  "name": "browser-extension-starter-app-builder",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "verify": "node --check scripts/new-extension.mjs && node --check scripts/doctor.mjs && node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
